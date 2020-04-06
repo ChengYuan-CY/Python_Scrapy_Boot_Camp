@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="image/scrapy.png" height="60">
+  <img src="image/scrapy.png">
 </div>
 <br/>
 
